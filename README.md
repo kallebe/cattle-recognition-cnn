@@ -32,3 +32,7 @@ Os experimentos propostos visam treinar o modelo de CNN utilizando o conjunto de
 ### Experimento E3
 
 ![Métricas de treinamento e validação em cada época do Experimento 3](results/e3-curvas.png)
+
+# Veja mais
+
+Trabalho de Conclusão completo em https://bdm.unb.br/handle/10483/38456
